@@ -44,7 +44,7 @@
     "round-to": "^1.0.0",
     "speedtest-net": "^1.0.3",
     "update-notifier": "^0.5.0",
-    "snyk": "^1.230.5"
+    "snyk": "^1.231.0"
   },
   "devDependencies": {
     "ava": "0.0.4",
