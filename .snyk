@@ -6,3 +6,7 @@ patch:
   SNYK-JS-HTTPSPROXYAGENT-469131:
     - speedtest-net > https-proxy-agent:
         patched: '2019-10-04T03:16:06.370Z'
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T02:02:26.794Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T02:02:26.794Z'
